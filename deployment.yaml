@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: c-dm
-        image: raemondarellano/digital-marketing:1.0.0-2
+        image: raemondarellano/digital-marketing:1.0.0-4
         ports:
         - containerPort: 80 
